@@ -14,7 +14,7 @@
 
 ### **CORE TEAM MEMBERS**
 
-#### **Pham Minh Tam** - Technical Lead & Project Manager
+#### **Pham Minh Tam** - Project Manager
 **Experience:** 9 years | **Role:** Architecture & Coordination
 
 • Former Team Lead at Lotte Innovate & GS Shop (SK Group)  
@@ -23,7 +23,7 @@
 • Notable: Built Lotte Mart's new online platform serving 1M+ users  
 • Technologies: NodeJS, NestJS, Magento 2, AWS, Docker, CI/CD  
 
-#### **Hung Tong Duy** - Backend Developer & Integration Specialist  
+#### **Hung Tong Duy** - Technical Lead & Integration Specialist  
 **Experience:** 9 years | **Role:** Core Development & API Integration
 
 • Banking & Fintech specialist with HDBank, BIC Bank experience  
