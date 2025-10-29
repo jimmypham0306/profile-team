@@ -24,7 +24,7 @@
 • Technologies: NodeJS, NestJS, Magento 2, AWS, Docker, CI/CD  
 
 #### **Hung Tong Duy** - Technical Lead & Integration Specialist  
-**Experience:** 9 years | **Role:** Core Development & API Integration
+**Experience:** 9 years | **Role:** Architecture & Coordination
 
 • Banking & Fintech specialist with HDBank, BIC Bank experience  
 • Strong in payment gateway integration (VNPay, Momo, ZaloPay, ShopeePay)  
