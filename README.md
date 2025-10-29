@@ -1,15 +1,12 @@
 # TEAM PROFILE
-## Shopify Development Team for HerBox Project
 
 ---
 
 ### **TEAM OVERVIEW**
 
-**Team Name:** TechCommerce Solutions  
 **Established:** 2020 (Team collaboration)  
-**Focus:** E-commerce Development & Digital Transformation  
-**Combined Experience:** 8+ years in software development  
-**Shopify Projects:** 15+ successful deployments  
+**Focus:** E-commerce Development & Digital Transformation, CRM System, Logistics System, Finance
+**Combined Experience:** 8+ years in software development   
 
 *"Transforming businesses with scalable e-commerce solutions - from startup to enterprise"*
 
@@ -61,10 +58,9 @@
 
 | Project | Industry | Scope | Results |
 |---------|----------|-------|---------|
-| **Lotte Mart Online** | Retail | Complete e-commerce platform | 1M+ users, 50K orders/month |
+| **Lotte Mart Online** | Retail | Complete e-commerce platform | ~1M+ users, ~50K orders/month |
 | **DonChicken.vn** | F&B | Online ordering + subscription | 300% growth in 6 months |
-| **BuuLien.vn** | E-commerce | Marketplace platform | 5K+ SKUs, multi-vendor |
-| **PianoLovers.vn** | Music/Education | Subscription-based learning | 2K+ subscribers |
+| **PianoLovers.vn** | Music/Education | Subscription-based learning | ~5000+ users, ~100 orders/month  |
 | **SalonFurnitureWarehouse.com** | B2B/B2C | International e-commerce | $2M+ annual revenue |
 
 ---
@@ -75,11 +71,14 @@
 • Shopify, Shopify Plus  
 • Magento 2  
 • Custom NodeJS solutions  
+• Custom Java solutions
+• Custom Flutter Mobile App solutions
+
 
 **Subscription & Payments**  
 • ReCharge, Bold Subscriptions  
 • VNPay, Momo, ZaloPay  
-• Stripe, PayPal  
+• PayPal  
 
 **Technologies**  
 • Backend: NodeJS, Java, NestJS  
@@ -87,28 +86,6 @@
 • Database: MySQL, PostgreSQL, MongoDB  
 • Cloud: AWS (EC2, RDS, S3, CloudFront)  
 • DevOps: Docker, CI/CD, Microservices  
-
----
-
-### **PROJECT APPROACH FOR HERBOX**
-
-**Week 1-2:** Discovery & Planning  
-• Requirements analysis  
-• Technical architecture  
-• Subscription model design  
-
-**Week 3-5:** Development  
-• Shopify setup & customization  
-• ReCharge integration  
-• Payment gateway setup  
-• Mobile-responsive design  
-
-**Week 6:** Testing & Launch  
-• Quality assurance  
-• Performance optimization  
-• Training & handover  
-
-**Post-Launch:** 2 months support included  
 
 ---
 
@@ -124,27 +101,11 @@
 
 ---
 
-### **INVESTMENT**
-
-**Package Options:**
-- **Standard:** $2,439 (Full payment discount)
-- **Flexible:** $2,710 (2-4 milestone payments)
-
-**Included:**
-- Complete Shopify store with subscription
-- 35+ features and integrations
-- Mobile optimization
-- Training and documentation
-- 2 months post-launch support
-
----
-
 ### **CONTACT INFORMATION**
 
 **Primary Contact:** Pham Minh Tam  
 📱 **Phone/WhatsApp:** 0961 725 399  
 📧 **Email:** phamminhtam0306@gmail.com  
-🌐 **Portfolio:** [View our projects](#)  
 📍 **Location:** Ho Chi Minh City, Vietnam  
 ⏰ **Availability:** Immediate start  
 
