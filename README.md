@@ -5,7 +5,7 @@
 ### **TEAM OVERVIEW**
 
 **Established:** 2020 (Team collaboration)  
-**Focus:** E-commerce Development & Digital Transformation, CRM System, Logistics System, Finance
+**Focus:** E-commerce Development & Digital Transformation, CRM System, Logistics System, Finance 
 **Combined Experience:** 8+ years in software development   
 
 *"Transforming businesses with scalable e-commerce solutions - from startup to enterprise"*
